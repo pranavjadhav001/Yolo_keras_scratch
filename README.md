@@ -8,3 +8,6 @@ LabelImg will give normalized coordinates of a image , x,y,w,h all are normalize
 ## Results
 ![alt text](images/download.png)
 ![alt text](images/download2.png)
+## References
+1. for labelling image, use https://github.com/ivangrov/YOLOv3-Series/tree/master/%5Bpart%204%5DOpenLabelling
+2. for more depth, https://blog.emmanuelcaradec.com/humble-yolo-implementation-in-keras/
